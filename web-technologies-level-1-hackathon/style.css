@@ -1,0 +1,27 @@
+/* Header styles */
+.blue-heading {
+  color: blue;
+}
+
+.red-paragraph {
+  color: red;
+  font-size: 15px;
+}
+
+/* Image section styles */
+.image-section {
+  border: 2px solid green;
+  width: 500px;
+  height: 500px;
+}
+
+/* Form styles */
+.registration-form {
+  margin-top: 20px;
+}
+
+/* Button styles */
+button {
+  margin-top: 10px;
+}
+
